@@ -5,6 +5,6 @@
 - 2 - API 
 - 3 - Dash
 
-![alt text](https://github.com/alpoirier/Macro-Webscrapping-and-Dashboard/tree/main/Webscrapper%20%26%20API/Picture/API 1.png?raw=true)
+![alt text]([https://github.com/alpoirier/Macro-Webscrapping-and-Dashboard/tree/main/Webscrapper%20%26%20API/Picture/API 1.png?raw=true](https://github.com/alpoirier/Macro-Webscrapping-and-Dashboard/blob/main/Webscrapper%20%26%20API/Picture/API%201.png)
 
-![alt text](https://github.com/alpoirier/Macro-Webscrapping-and-Dashboard/tree/main/Webscrapper%20%26%20API/Picture/Dash 1.png?raw=true)
+![alt text](https://github.com/alpoirier/Macro-Webscrapping-and-Dashboard/blob/main/Webscrapper%20%26%20API/Picture/Dash%201.png)
