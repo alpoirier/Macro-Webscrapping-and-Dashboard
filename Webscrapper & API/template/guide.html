@@ -19,6 +19,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
   <div class="w3-bar w3-white w3-card w3-left-align w3-large">
     <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
     <a href="http://127.0.0.1:5000/" class="w3-bar-item w3-button w3-padding-large w3-blue">Home</a>
+    <a href="http://127.0.0.1:5000/all-data/visualize" class="w3-bar-item w3-button w3-padding-large w3-blue">All Data</a>
     <a href="http://127.0.0.1:5000/inflation-rate/visualize" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Inflation rate</a>
     <a href="http://127.0.0.1:5000/interest-rate/visualize" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Interest Rate</a>
     <a href="http://127.0.0.1:5000/unemployment-rate/visualize" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Unemployment Rate</a>
@@ -43,8 +44,12 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
     <div class="w3-twothird">
       <h1 class="w3-margin w3-xlarge">Thank you for using our API</h1>
       <h5 class="w3-padding-32"></h5>
-      <p class="w3-text-grey w3-large"> Throughout this project we wanted to design a webscrapper and an API that would allow us to easily retreive macroeconomic figures and recent announcment. Our sources are respectively Trading Economics and ForexFactory. </p>
-      <p class="w3-text-grey w3-large"> The two Jupyter Notebooks are self sufficient.</p>
+      <p class="w3-text-grey w3-large"> Throughout this project we wanted to design a webscrapping tool in order to retrieve macroeconomic indicators and news from both TradingEconomics.com and ForexFactory.com. We used the Beautifull Soup and Selenium python packages in order to do so and tried to generalize the scrapping code as much as possible so that the user can quickly add any additional types of macroeconomic variables. Please add a new "key" that corresponds to the last part of the URL website from the desired indicator on TradingEconomics in the list of keys inside of the "Scrapping" Ipynb File. </p>
+      <p class="w3-text-grey w3-large"> We also created this API to quickly display the various macroeconomic data frames and recent Macro news announcements. We used the Flask Package to create this website and some CSS templates from W3 Schools. We also propose a Dashboard made with the Dash library which is based on Flask. We can integrate this Dashboard within the Flask API using the following methodology: https://hackersandslackers.com/plotly-dash-with-flask/ </p>
+      <p class="w3-text-grey w3-large"> To navigate through the website, users have access to the news directly on the landing/home page.      </p>
+      <p class="w3-text-grey w3-large"> Users can have access to the different macroeconomic data for various countries by clicking on the links/buttons at the top of the website.      </p>
+      <p class="w3-text-grey w3-large"> Please refer to the various Jupyter Notebooks for more details.</p>
+
     </div>
   </div>
 </div>

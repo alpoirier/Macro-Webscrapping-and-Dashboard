@@ -1,0 +1,14 @@
+1670351377539	geckodriver	INFO	Listening on 127.0.0.1:50416
+1670351378023	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50417" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lb/6zbgqrg520b7c61dgy_1b_tw0000gn/T/rust_mozprofileYsM7yr"
+1670351380159	Marionette	INFO	Marionette enabled
+1670351380336	Marionette	INFO	Listening on port 50424
+Read port: 50424
+WebDriver BiDi listening on ws://127.0.0.1:50417
+1670351380579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lb/6zbgqrg520b7c61dgy_1b_tw0000gn/T/rust_mozprofileYsM7yr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50417/devtools/browser/bb679a72-14ca-4707-88a3-114ed27a28ed
+JavaScript warning: https://pagead2.googlesyndication.com/bg/81_xgzAtA3K6BUSvxlviYRqiKRYqPH3jXMkg3rbk2fc.js line 2 > eval line 569 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670351388183	Marionette	INFO	Stopped listening on port 50424
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/lb/6zbgqrg520b7c61dgy_1b_tw0000gn/T/rust_mozprofileYsM7yr/protections.sqlite

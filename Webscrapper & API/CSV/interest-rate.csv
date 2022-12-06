@@ -1,21 +1,21 @@
 Country,Last,Previous,Reference,Unit
 Japan,-0.1,-0.1,Oct/22,%
 Fiji,0.25,0.25,Nov/22,%
-Switzerland,0.5,0.5,Oct/22,%
-Comoros,0.92,0.92,Jun/22,%
-Thailand,1.25,1,Nov/22,%
-Taiwan,1.63,1.63,Oct/22,%
-Euro Area,2,1.25,Oct/22,%
-Seychelles,2,2,Dec/22,%
-Cuba,2.25,2.25,Oct/22,%
+Switzerland,0.5,0.5,Nov/22,%
+Denmark,1.25,0.65,Oct/22,%
+Taiwan,1.63,1.63,Nov/22,%
+Barbados,2,2,Oct/22,%
+Morocco,2,2,Nov/22,%
+Belize,2.25,2.25,Sep/22,%
+New Caledonia,2.25,1.5,Nov/22,%
 Norway,2.5,2.25,Nov/22,%
 Botswana,2.65,2.65,Dec/22,%
 Albania,2.75,2.25,Nov/22,%
-Australia,2.85,2.6,Nov/22,%
-Honduras,3,3,Nov/22,%
+Algeria,3,3,Nov/22,%
 Libya,3,3,Nov/22,%
-Israel,3.25,2.75,Nov/22,%
-South Korea,3.25,3,Nov/22,%
+Australia,3.1,2.85,Dec/22,%
+Papua New Guinea,3.25,3.25,Nov/22,%
+Kuwait,3.5,3,Dec/22,%
 Bosnia and Herzegovina,3.58,3.45,Sep/22,%
 Canada,3.75,3.25,Oct/22,%
 United Arab Emirates,3.9,3.9,Nov/22,%
@@ -29,12 +29,12 @@ Chad,4.5,4.5,Oct/22,%
 Gabon,4.5,4.5,Oct/22,%
 Ivory Coast,4.5,4.5,Nov/22,%
 Niger,4.5,4.5,Nov/22,%
-Republic of the Congo,4.5,4.5,Oct/22,%
+Republic of the Congo,4.5,4.5,Nov/22,%
 Senegal,4.5,4.5,Nov/22,%
-Togo,4.5,4.5,Oct/22,%
+Togo,4.5,4.5,Nov/22,%
 El Salvador,4.95,4.58,Sep/22,%
 Philippines,5,4.25,Nov/22,%
-Tanzania,5,5,Oct/22,%
+Tanzania,5,5,Nov/22,%
 Jordan,5.25,4.5,Sep/22,%
 Bangladesh,5.75,5.75,Nov/22,%
 Iceland,6,5.75,Nov/22,%
@@ -50,12 +50,12 @@ Peru,7.25,7,Nov/22,%
 Congo,7.5,7.5,Oct/22,%
 Lebanon,7.75,7.75,Nov/22,%
 Ecuador,8.35,8.45,Oct/22,%
-Dominican Republic,8.5,8.5,Nov/22,%
-Paraguay,8.5,8.5,Nov/22,%
+Nepal,8.5,8.5,Nov/22,%
+Kenya,8.75,8.25,Nov/22,%
 Costa Rica,9,8.5,Oct/22,%
 Zambia,9,9,Nov/22,%
 Mexico,10,9.25,Nov/22,%
-Suriname,10,10,Oct/22,%
+Suriname,10,10,Nov/22,%
 Armenia,10.5,10.5,Nov/22,%
 Georgia,11,11,Oct/22,%
 Uruguay,11.25,10.75,Nov/22,%
@@ -64,12 +64,12 @@ Mongolia,12,12,Nov/22,%
 Hungary,13,13,Nov/22,%
 Tajikistan,13,13.5,Oct/22,%
 Brazil,13.75,13.75,Oct/22,%
-Liberia,15,15,Oct/22,%
+Liberia,15,15,Nov/22,%
 Pakistan,16,15,Nov/22,%
 Kazakhstan,16.75,16,Dec/22,%
 Sierra Leone,17,16,Oct/22,%
 Iran,18,18,May/22,%
 Angola,19.5,19.5,Nov/22,%
-Sudan,24.9,24.5,Sep/22,%
-Ghana,27,27,Nov/22,%
+Ukraine,25,25,Oct/22,%
+Sudan,27.3,24.9,Oct/22,%
 Argentina,75,75,Oct/22,%
