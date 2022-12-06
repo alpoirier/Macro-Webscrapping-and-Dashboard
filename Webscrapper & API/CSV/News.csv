@@ -1,0 +1,370 @@
+Date,Time,Currency,Event_Title,Actual,Forecast,Previous
+1 Nov,1:30 am,AUD,  Commodity Prices y/y  ,22.4%,,31.9%
+1 Nov,3:00 am,EUR,  German Import Prices m/m  ,-0.9%,0.7%,4.3%
+1 Nov,,GBP,  Nationwide HPI m/m  ,-0.9%,-0.4%,0.0%
+1 Nov,4:00 am,CHF,  SECO Consumer Climate  ,-47,-43,-42
+1 Nov,4:20 am,AUD,  RBA Gov Lowe Speaks  ,,,
+1 Nov,4:30 am,CHF,  Manufacturing PMI  ,54.9,55.5,57.1
+1 Nov,5:30 am,GBP,  Final Manufacturing PMI  ,46.2,45.8,45.8
+1 Nov,9:30 am,CAD,  Manufacturing PMI  ,48.8,,49.8
+1 Nov,9:45 am,USD,  Final Manufacturing PMI  ,50.4,49.9,49.9
+1 Nov,10:00 am,USD,  ISM Manufacturing PMI  ,50.2,50.0,50.9
+1 Nov,,USD,  JOLTS Job Openings  ,10.72M,9.75M,10.28M
+1 Nov,,USD,  Construction Spending m/m  ,0.2%,-0.5%,-0.6%
+1 Nov,,USD,  ISM Manufacturing Prices  ,46.6,53.0,51.7
+1 Nov,All D ay,USD,  Wards Total Vehicle Sales  ,14.9M,14.5M,13.5M
+1 Nov,10:32 am,NZD,  GDT Price Index  ,-3.9%,,-4.6%
+1 Nov,4:00 pm,NZD,  RBNZ Financial Stability Report  ,,,
+1 Nov,5:30 pm,AUD,  AIG Manufacturing Index  ,49.6,,50.2
+1 Nov,5:45 pm,NZD,  Employment Change q/q  ,1.3%,0.5%,0.0%
+1 Nov,,NZD,  Unemployment Rate  ,3.3%,3.2%,3.3%
+1 Nov,,NZD,  Labor Cost Index q/q  ,1.1%,1.1%,1.3%
+1 Nov,6:00 pm,NZD,  RBNZ Gov Orr Speaks  ,,,
+1 Nov,6:30 pm,CAD,  BOC Gov Macklem Speaks  ,,,
+1 Nov,7:50 pm,JPY,  Monetary Base y/y  ,-6.9%,-2.0%,-3.3%
+1 Nov,,JPY,  Monetary Policy Meeting Minutes  ,,,
+1 Nov,8:01 pm,GBP,  BRC Shop Price Index y/y  ,6.6%,,5.7%
+1 Nov,8:30 pm,AUD,  Building Approvals m/m  ,-5.8%,-10.0%,23.1%
+2 Nov,3:00 am,EUR,  German Trade Balance  ,3.7B,1.5B,1.2B
+2 Nov,3:45 am,EUR,  French Gov Budget Balance  ,-146.6B,,-149.9B
+2 Nov,4:15 am,EUR,  Spanish Manufacturing PMI  ,44.7,47.6,49.0
+2 Nov,4:45 am,EUR,  Italian Manufacturing PMI  ,46.5,46.9,48.3
+2 Nov,4:50 am,EUR,  French Final Manufacturing PMI  ,47.2,47.4,47.4
+2 Nov,4:55 am,EUR,  German Final Manufacturing PMI  ,45.1,45.7,45.7
+2 Nov,,EUR,  German Unemployment Change  ,8K,12K,13K
+2 Nov,5:00 am,EUR,  Final Manufacturing PMI  ,46.4,46.6,46.6
+2 Nov,8:15 am,USD,  ADP Non-Farm Employment Change  ,239K,178K,192K
+2 Nov,10:30 am,USD,  Crude Oil Inventories  ,-3.1M,-0.2M,2.6M
+2 Nov,2:00 pm,EUR,  German Buba President Nagel Speaks  ,,,
+2 Nov,,USD,  FOMC Statement  ,,,
+2 Nov,,USD,  Federal Funds Rate  ,4.00%,4.00%,3.25%
+2 Nov,2:30 pm,USD,  FOMC Press Conference  ,,,
+2 Nov,4:00 pm,NZD,  RBNZ Gov Orr Speaks  ,,,
+2 Nov,8:00 pm,NZD,  ANZ Commodity Prices m/m  ,-3.4%,,-0.6%
+2 Nov,8:30 pm,AUD,  Trade Balance  ,12.44B,8.72B,8.66B
+2 Nov,9:45 pm,CNY,  Caixin Services PMI  ,48.4,48.9,49.3
+3 Nov,3:30 am,CHF,  CPI m/m  ,0.1%,0.2%,-0.2%
+3 Nov,4:00 am,EUR,  German Buba President Nagel Speaks  ,,,
+3 Nov,,EUR,  Spanish Unemployment Change  ,-27.0K,23.8K,17.7K
+3 Nov,5:00 am,EUR,  Italian Monthly Unemployment Rate  ,7.9%,7.8%,7.9%
+3 Nov,5:30 am,GBP,  Final Services PMI  ,48.8,47.5,47.5
+3 Nov,5:47 am,EUR,  Spanish 10-y Bond Auction  ,3.31|2.1,,3.23|1.4
+3 Nov,5:58 am,EUR,  French 10-y Bond Auction  ,2.76|2.1,,2.59|2.4
+3 Nov,6:00 am,EUR,  Unemployment Rate  ,6.6%,6.6%,6.7%
+3 Nov,7:30 am,USD,  Challenger Job Cuts y/y  ,48.3%,,67.6%
+3 Nov,8:00 am,GBP,  BOE Monetary Policy Report  ,,,
+3 Nov,,GBP,  MPC Official Bank Rate Votes  ,9-0-0,9-0-0,9-0-0
+3 Nov,,GBP,  Monetary Policy Summary  ,,,
+3 Nov,,GBP,  Official Bank Rate  ,3.00%,3.00%,2.25%
+3 Nov,8:30 am,CAD,  Building Permits m/m  ,-17.5%,-4.9%,12.0%
+3 Nov,,CAD,  Trade Balance  ,1.1B,1.1B,0.5B
+3 Nov,,GBP,  BOE Gov Bailey Speaks  ,,,
+3 Nov,,USD,  Prelim Nonfarm Productivity q/q  ,0.3%,-0.1%,-4.1%
+3 Nov,,USD,  Prelim Unit Labor Costs q/q  ,3.5%,3.9%,10.2%
+3 Nov,,USD,  Trade Balance  ,-73.3B,-72.4B,-65.7B
+3 Nov,9:45 am,USD,  Final Services PMI  ,47.8,46.6,46.6
+3 Nov,10:00 am,USD,  ISM Services PMI  ,54.4,55.5,56.7
+3 Nov,,USD,  Factory Orders m/m  ,0.3%,0.4%,0.2%
+3 Nov,10:30 am,USD,  Natural Gas Storage  ,107B,99B,52B
+3 Nov,1:30 pm,CAD,  Gov Council Member Beaudry Speaks  ,,,
+3 Nov,4:30 pm,GBP,  MPC Member Mann Speaks  ,,,
+3 Nov,5:30 pm,AUD,  AIG Construction Index  ,43.3,,46.5
+3 Nov,,AUD,  Retail Sales m/m  ,0.6%,0.6%,0.6%
+4 Nov,3:00 am,EUR,  German Factory Orders m/m  ,-4.0%,-0.5%,-2.0%
+4 Nov,3:45 am,EUR,  French Industrial Production m/m  ,-0.8%,-0.9%,2.7%
+4 Nov,4:15 am,EUR,  Spanish Services PMI  ,49.7,48.2,48.5
+4 Nov,4:30 am,EUR,  German Buba President Nagel Speaks  ,,,
+4 Nov,4:45 am,EUR,  Italian Services PMI  ,46.4,48.5,48.8
+4 Nov,4:50 am,EUR,  French Final Services PMI  ,51.7,51.3,51.3
+4 Nov,4:55 am,EUR,  German Final Services PMI  ,46.5,44.9,44.9
+4 Nov,5:00 am,EUR,  Final Services PMI  ,48.6,48.2,48.2
+4 Nov,,GBP,  Construction PMI  ,53.2,50.2,52.3
+4 Nov,6:00 am,EUR,  PPI m/m  ,1.6%,1.7%,5.0%
+4 Nov,8:15 am,GBP,  MPC Member Pill Speaks  ,,,
+4 Nov,8:30 am,CAD,  Employment Change  ,108.3K,11.0K,21.1K
+4 Nov,,CAD,  Unemployment Rate  ,5.2%,5.3%,5.2%
+4 Nov,,USD,  Average Hourly Earnings m/m  ,0.4%,0.3%,0.3%
+4 Nov,,USD,  Non-Farm Employment Change  ,261K,197K,315K
+4 Nov,,USD,  Unemployment Rate  ,3.7%,3.6%,3.5%
+4 Nov,4:00 pm,USD,  FOMC Financial Stability Report  ,,,
+4 Nov,10:01 pm,CNY,  USD-Denominated Trade Balance  ,85.2B,96.0B,84.7B
+4 Nov,10:02 pm,CNY,  Trade Balance  ,587B,702B,574B
+7 Nov,1:45 am,CHF,  Unemployment Rate  ,2.1%,2.1%,2.1%
+7 Nov,2:00 am,EUR,  German Industrial Production m/m  ,0.6%,0.2%,-1.2%
+7 Nov,,GBP,  Halifax HPI m/m  ,-0.4%,-0.4%,-0.1%
+7 Nov,3:00 am,CHF,  Foreign Currency Reserves  ,817B,,806B
+7 Nov,4:30 am,EUR,  Sentix Investor Confidence  ,-30.9,-35.2,-38.3
+7 Nov,All D ay,EUR,  Eurogroup Meetings  ,,,
+7 Nov,2:00 pm,USD,  Loan Officer Survey  ,,,
+7 Nov,3:00 pm,USD,  Consumer Credit m/m  ,25.0B,31.5B,30.2B
+7 Nov,3:40 pm,USD,  FOMC Member Collins Speaks  ,,,
+7 Nov,,USD,  FOMC Member Mester Speaks  ,,,
+7 Nov,4:30 pm,AUD,  AIG Services Index  ,47.7,,48.0
+7 Nov,6:30 pm,AUD,  Westpac Consumer Sentiment  ,-6.9%,,-0.9%
+7 Nov,,JPY,  Average Cash Earnings y/y  ,2.1%,1.7%,1.7%
+7 Nov,,JPY,  Household Spending y/y  ,2.3%,2.6%,5.1%
+7 Nov,6:50 pm,JPY,  BOJ Summary of Opinions  ,,,
+7 Nov,7:01 pm,GBP,  BRC Retail Sales Monitor y/y  ,1.2%,1.5%,1.8%
+7 Nov,7:26 pm,AUD,  NAB Business Confidence  ,0,,5
+8 Nov,12:00 am,JPY,  Leading Indicators  ,97.4%,97.9%,101.3%
+8 Nov,2:45 am,EUR,  French Prelim Private Payrolls q/q  ,0.4%,0.4%,0.5%
+8 Nov,,EUR,  French Trade Balance  ,-17.5B,-14.7B,-15.3B
+8 Nov,3:00 am,EUR,  German Buba President Nagel Speaks  ,,,
+8 Nov,4:00 am,EUR,  Italian Retail Sales m/m  ,0.5%,0.2%,-0.3%
+8 Nov,,GBP,  MPC Member Pill Speaks  ,,,
+8 Nov,4:30 am,AUD,  RBA Gov Lowe Speaks  ,,,
+8 Nov,5:00 am,EUR,  Retail Sales m/m  ,0.4%,0.4%,0.0%
+8 Nov,5:56 am,USD,  NFIB Small Business Index  ,91.3,91.3,92.1
+8 Nov,10:00 am,USD,  IBD/TIPP Economic Optimism  ,40.4,41.5,41.6
+8 Nov,All D ay,USD,  Congressional Elections  ,,,
+8 Nov,11:00 am,GBP,  MPC Member Pill Speaks  ,,,
+8 Nov,6:50 pm,JPY,  Bank Lending y/y  ,2.7%,2.5%,2.3%
+8 Nov,,JPY,  Current Account  ,0.67T,0.01T,0.10T
+8 Nov,8:34 pm,CNY,  CPI y/y  ,2.1%,2.4%,2.8%
+8 Nov,8:35 pm,CNY,  PPI y/y  ,-1.3%,-1.6%,0.9%
+8 Nov,10:35 pm,JPY,  30-y Bond Auction  ,1.56|3.3,,1.48|2.9
+9 Nov,12:00 am,JPY,  Economy Watchers Sentiment  ,49.9,50.0,48.4
+9 Nov,3:00 am,USD,  FOMC Member Williams Speaks  ,,,
+9 Nov,4:05 am,AUD,  RBA Deputy Gov Bullock Speaks  ,,,
+9 Nov,5:03 am,GBP,  10-y Bond Auction  ,3.71|2.2,,4.11|2.4
+9 Nov,5:37 am,EUR,  German 10-y Bond Auction  ,2.25|1.7,,2.33|1.2
+9 Nov,8:00 am,GBP,  MPC Member Haskel Speaks  ,,,
+9 Nov,10:00 am,USD,  Final Wholesale Inventories m/m  ,0.6%,0.8%,0.8%
+9 Nov,10:30 am,USD,  Crude Oil Inventories  ,3.9M,0.3M,-3.1M
+9 Nov,11:30 am,GBP,  MPC Member Cunliffe Speaks  ,,,
+9 Nov,1:01 pm,USD,  10-y Bond Auction  ,4.14|2.2,,3.93|2.3
+9 Nov,6:50 pm,JPY,  M2 Money Stock y/y  ,3.1%,3.2%,3.3%
+9 Nov,7:00 pm,AUD,  MI Inflation Expectations  ,6.0%,,5.4%
+9 Nov,7:01 pm,GBP,  RICS House Price Balance  ,-2%,19%,30%
+10 Nov,12:59 am,JPY,  Prelim Machine Tool Orders y/y  ,-5.4%,,4.3%
+10 Nov,4:00 am,EUR,  ECB Economic Bulletin  ,,,
+10 Nov,,EUR,  Italian Industrial Production m/m  ,-1.8%,-1.6%,2.3%
+10 Nov,5:19 am,CNY,  New Loans  ,615B,800B,2470B
+10 Nov,5:20 am,CNY,  M2 Money Supply y/y  ,11.8%,12.0%,12.1%
+10 Nov,8:00 am,GBP,  MPC Member Ramsden Speaks  ,,,
+10 Nov,8:10 am,GBP,  MPC Member Tenreyro Speaks  ,,,
+10 Nov,8:30 am,USD,  CPI m/m  ,0.4%,0.6%,0.4%
+10 Nov,,USD,  CPI y/y  ,7.7%,7.9%,8.2%
+10 Nov,,USD,  Core CPI m/m  ,0.3%,0.5%,0.6%
+10 Nov,9:00 am,USD,  Treasury Currency Report  ,,,
+10 Nov,10:00 am,USD,  Mortgage Delinquencies  ,3.45%,,3.64%
+10 Nov,10:30 am,USD,  Natural Gas Storage  ,79B,92B,107B
+10 Nov,11:55 am,CAD,  BOC Gov Macklem Speaks  ,,,
+10 Nov,1:01 pm,USD,  30-y Bond Auction  ,4.08|2.4,,3.93|2.4
+10 Nov,2:00 pm,USD,  Federal Budget Balance  ,-87.8B,-93.0B,-429.7B
+10 Nov,4:30 pm,NZD,  BusinessNZ Manufacturing Index  ,49.3,,51.7
+10 Nov,4:45 pm,NZD,  FPI m/m  ,0.8%,,0.4%
+10 Nov,6:50 pm,JPY,  PPI y/y  ,9.1%,8.8%,10.2%
+11 Nov,2:00 am,EUR,  German Final CPI m/m  ,0.9%,0.9%,0.9%
+11 Nov,,GBP,  GDP m/m  ,-0.6%,-0.4%,-0.1%
+11 Nov,,GBP,  Construction Output m/m  ,0.4%,-0.6%,0.6%
+11 Nov,,GBP,  Goods Trade Balance  ,-15.7B,-18.6B,-17.2B
+11 Nov,,GBP,  Index of Services 3m/3m  ,0.0%,-0.2%,0.1%
+11 Nov,,GBP,  Industrial Production m/m  ,0.2%,-0.3%,-1.4%
+11 Nov,,GBP,  Manufacturing Production m/m  ,0.0%,-0.4%,-1.1%
+11 Nov,,GBP,  Prelim Business Investment q/q  ,-0.5%,0.6%,3.7%
+11 Nov,All D ay,EUR,  ECOFIN Meetings  ,,,
+11 Nov,7:55 am,GBP,  NIESR GDP Estimate  ,-0.3%,,-0.2%
+11 Nov,10:00 am,USD,  Prelim UoM Consumer Sentiment  ,54.7,59.5,59.9
+11 Nov,11:00 am,GBP,  MPC Member Haskel Speaks  ,,,
+11 Nov,12:30 pm,EUR,  German Buba President Nagel Speaks  ,,,
+13 Nov,4:30 pm,NZD,  BusinessNZ Services Index  ,57.4,,55.9
+13 Nov,,USD,  FOMC Member Waller Speaks  ,,,
+13 Nov,7:01 pm,GBP,  Rightmove HPI m/m  ,-1.1%,,0.9%
+14 Nov,2:30 am,CHF,  PPI m/m  ,0.0%,0.2%,0.2%
+14 Nov,5:00 am,EUR,  Industrial Production m/m  ,0.9%,0.1%,2.0%
+14 Nov,8:45 am,CAD,  BOC Gov Macklem Speaks  ,,,
+14 Nov,9:30 am,GBP,  CB Leading Index m/m  ,-0.9%,,-0.6%
+14 Nov,4:45 pm,NZD,  Visitor Arrivals m/m  ,16.6%,,-3.3%
+14 Nov,6:50 pm,JPY,  Prelim GDP Price Index y/y  ,-0.5%,-0.6%,-0.3%
+14 Nov,,JPY,  Prelim GDP q/q  ,-0.3%,0.3%,0.9%
+14 Nov,7:30 pm,AUD,  Monetary Policy Meeting Minutes  ,,,
+14 Nov,9:00 pm,CNY,  Fixed Asset Investment ytd/y  ,5.8%,5.9%,5.9%
+14 Nov,,CNY,  Industrial Production y/y  ,5.0%,5.4%,6.3%
+14 Nov,,CNY,  NBS Press Conference  ,,,
+14 Nov,,CNY,  Retail Sales y/y  ,-0.5%,0.7%,2.5%
+14 Nov,,CNY,  Unemployment Rate  ,5.5%,5.5%,5.5%
+14 Nov,11:30 pm,JPY,  Revised Industrial Production m/m  ,-1.7%,-1.6%,-1.6%
+15 Nov,2:00 am,EUR,  German WPI m/m  ,-0.6%,1.2%,1.6%
+15 Nov,,GBP,  Claimant Count Change  ,3.3K,17.3K,3.9K
+15 Nov,,GBP,  Unemployment Rate  ,3.6%,3.5%,3.5%
+15 Nov,2:45 am,EUR,  French Final CPI m/m  ,1.0%,1.0%,1.0%
+15 Nov,,EUR,  Flash Employment Change q/q  ,0.2%,0.4%,0.4%
+15 Nov,,EUR,  Flash GDP q/q  ,0.2%,0.2%,0.2%
+15 Nov,,EUR,  Trade Balance  ,-37.7B,-42.3B,-47.6B
+15 Nov,,EUR,  ZEW Economic Sentiment  ,-38.7,-52.0,-59.7
+15 Nov,8:30 am,CAD,  Manufacturing Sales m/m  ,0.0%,-0.5%,-1.9%
+15 Nov,,CAD,  Wholesale Sales m/m  ,0.1%,-0.1%,1.9%
+15 Nov,,USD,  Empire State Manufacturing Index  ,4.5,-6.1,-9.1
+15 Nov,,USD,  PPI m/m  ,0.2%,0.4%,0.2%
+15 Nov,9:00 am,USD,  FOMC Member Cook Speaks  ,,,
+15 Nov,9:17 am,NZD,  GDT Price Index  ,2.4%,,-3.9%
+15 Nov,10:00 am,USD,  FOMC Member Barr Speaks  ,,,
+15 Nov,6:30 pm,AUD,  MI Leading Index m/m  ,-0.1%,,-0.1%
+15 Nov,6:50 pm,JPY,  Core Machinery Orders m/m  ,-4.6%,0.6%,-5.8%
+15 Nov,7:30 pm,AUD,  Wage Price Index q/q  ,1.0%,0.9%,0.8%
+15 Nov,11:30 pm,JPY,  Tertiary Industry Activity m/m  ,-0.4%,0.6%,0.7%
+16 Nov,2:00 am,GBP,  CPI y/y  ,11.1%,10.7%,10.1%
+16 Nov,,GBP,  Core CPI y/y  ,6.5%,6.4%,6.5%
+16 Nov,,GBP,  PPI Input m/m  ,0.6%,0.3%,0.9%
+16 Nov,,GBP,  PPI Output m/m  ,0.3%,0.5%,0.3%
+16 Nov,,GBP,  RPI y/y  ,14.2%,13.6%,12.6%
+16 Nov,4:30 am,GBP,  HPI y/y  ,9.5%,9.8%,13.1%
+16 Nov,8:15 am,CAD,  Housing Starts  ,267k,273K,299k
+16 Nov,8:30 am,CAD,  CPI m/m  ,0.7%,0.8%,0.1%
+16 Nov,,CAD,  Median CPI y/y  ,4.8%,4.8%,4.7%
+16 Nov,,CAD,  Trimmed CPI y/y  ,5.3%,5.3%,5.2%
+16 Nov,,CAD,  Core CPI m/m  ,0.4%,,0.4%
+16 Nov,,USD,  Core Retail Sales m/m  ,1.3%,0.5%,0.1%
+16 Nov,,USD,  Retail Sales m/m  ,1.3%,1.0%,0.0%
+16 Nov,,USD,  Import Prices m/m  ,-0.2%,-0.5%,-1.1%
+16 Nov,9:15 am,GBP,  Monetary Policy Report Hearings  ,,,
+16 Nov,,USD,  Capacity Utilization Rate  ,79.9%,80.4%,80.1%
+16 Nov,,USD,  Industrial Production m/m  ,-0.1%,0.1%,0.1%
+16 Nov,9:50 am,USD,  FOMC Member Williams Speaks  ,,,
+16 Nov,,USD,  Business Inventories m/m  ,0.4%,0.5%,0.9%
+16 Nov,,USD,  FOMC Member Barr Speaks  ,,,
+16 Nov,,USD,  NAHB Housing Market Index  ,33,36,38
+16 Nov,10:30 am,USD,  Crude Oil Inventories  ,-5.4M,-2.0M,3.9M
+16 Nov,2:35 pm,USD,  FOMC Member Waller Speaks  ,,,
+16 Nov,4:00 pm,USD,  TIC Long-Term Purchases  ,118.0B,113.0B,198.3B
+16 Nov,4:45 pm,NZD,  PPI Input q/q  ,0.8%,2.6%,3.1%
+16 Nov,,NZD,  PPI Output q/q  ,1.6%,2.1%,2.4%
+16 Nov,6:50 pm,JPY,  Trade Balance  ,-2.30T,-1.93T,-2.04T
+16 Nov,7:30 pm,AUD,  Employment Change  ,32.2K,15.0K,-3.8K
+16 Nov,,AUD,  Unemployment Rate  ,3.4%,3.5%,3.5%
+17 Nov,2:00 am,CHF,  Trade Balance  ,4.14B,3.70B,4.19B
+17 Nov,,CNY,  Foreign Direct Investment ytd/y  ,14.4%,,15.6%
+17 Nov,4:00 am,EUR,  Italian Trade Balance  ,-6.45B,-4.05B,-9.51B
+17 Nov,4:44 am,EUR,  Spanish 10-y Bond Auction  ,2.90|1.8,,3.31|2.1
+17 Nov,5:00 am,EUR,  Final CPI y/y  ,10.6%,10.7%,10.7%
+17 Nov,,EUR,  Final Core CPI y/y  ,5.0%,5.0%,5.0%
+17 Nov,6:32 am,GBP,  Autumn Forecast Statement  ,,,
+17 Nov,7:30 am,GBP,  MPC Member Pill Speaks  ,,,
+17 Nov,8:30 am,USD,  Philly Fed Manufacturing Index  ,-19.4,-6.0,-8.7
+17 Nov,,USD,  Building Permits  ,1.53M,1.51M,1.56M
+17 Nov,,USD,  Housing Starts  ,1.43M,1.41M,1.49M
+17 Nov,9:15 am,USD,  FOMC Member Bowman Speaks  ,,,
+17 Nov,9:30 am,GBP,  MPC Member Tenreyro Speaks  ,,,
+17 Nov,10:30 am,USD,  Natural Gas Storage  ,64B,66B,79B
+17 Nov,10:40 am,USD,  FOMC Member Jefferson Speaks  ,,,
+17 Nov,6:30 pm,JPY,  National Core CPI y/y  ,3.6%,3.5%,3.0%
+17 Nov,7:01 pm,GBP,  GfK Consumer Confidence  ,-44,-46,-47
+17 Nov,8:00 am,EUR,  German Buba President Nagel Speaks  ,,,
+17 Nov,8:15 am,GBP,  MPC Member Mann Speaks  ,,,
+17 Nov,8:30 am,CAD,  Foreign Securities Purchases  ,-22.27B,6.44B,26.22B
+17 Nov,,CAD,  IPPI m/m  ,2.4%,0.6%,0.0%
+17 Nov,,CAD,  RMPI m/m  ,1.3%,0.2%,-3.1%
+17 Nov,,USD,  CB Leading Index m/m  ,-0.8%,-0.4%,-0.5%
+17 Nov,12:15 pm,GBP,  MPC Member Haskel Speaks  ,,,
+20 Nov,9:00 pm,NZD,  Credit Card Spending y/y  ,24.8%,,34.0%
+21 Nov,2:00 am,EUR,  German PPI m/m  ,-4.2%,0.9%,2.3%
+21 Nov,4:05 am,GBP,  MPC Member Cunliffe Speaks  ,,,
+21 Nov,10:30 am,AUD,  CB Leading Index m/m  ,-0.2%,,0.2%
+21 Nov,12:30 pm,EUR,  German Buba President Nagel Speaks  ,,,
+21 Nov,4:45 pm,NZD,  Trade Balance  ,-2129M,-1715M,-1696M
+22 Nov,12:05 am,JPY,  BOJ Core CPI y/y  ,2.7%,2.2%,2.0%
+22 Nov,2:00 am,GBP,  Public Sector Net Borrowing  ,12.7B,19.1B,16.9B
+22 Nov,3:30 am,AUD,  RBA Gov Lowe Speaks  ,,,
+22 Nov,4:00 am,EUR,  Current Account  ,-8.1B,-20.3B,-26.9B
+22 Nov,,CAD,  NHPI m/m  ,-0.2%,0.2%,-0.1%
+22 Nov,10:00 am,EUR,  Consumer Confidence  ,-24,-26,-28
+22 Nov,11:45 am,CAD,  Gov Council Member Rogers Speaks  ,,,
+22 Nov,1:00 pm,EUR,  German Buba President Nagel Speaks  ,,,
+22 Nov,5:00 pm,AUD,  Flash Manufacturing PMI  ,51.5,,52.7
+22 Nov,,AUD,  Flash Services PMI  ,47.2,,49.3
+22 Nov,8:00 pm,NZD,  Official Cash Rate  ,4.25%,4.25%,3.50%
+22 Nov,,NZD,  RBNZ Monetary Policy Statement  ,,,
+22 Nov,,NZD,  RBNZ Rate Statement  ,,,
+22 Nov,9:00 pm,NZD,  RBNZ Press Conference  ,,,
+23 Nov,3:15 am,EUR,  French Flash Services PMI  ,49.4,50.6,51.7
+23 Nov,3:30 am,EUR,  German Flash Manufacturing PMI  ,46.7,44.9,45.1
+23 Nov,,EUR,  German Flash Services PMI  ,46.4,46.1,46.5
+23 Nov,4:00 am,EUR,  Flash Manufacturing PMI  ,47.3,46.0,46.4
+23 Nov,,EUR,  Flash Services PMI  ,48.6,48.0,48.6
+23 Nov,4:30 am,GBP,  Flash Manufacturing PMI  ,46.2,45.7,46.2
+23 Nov,,GBP,  Flash Services PMI  ,48.8,48.0,48.8
+23 Nov,5:34 am,EUR,  German 30-y Bond Auction  ,1.94|1.8,,1.10|1.6
+23 Nov,6:00 am,EUR,  German Buba Monthly Report  ,,,
+23 Nov,8:30 am,CAD,  Corporate Profits q/q  ,-8.1%,,6.5%
+23 Nov,9:45 am,USD,  Flash Services PMI  ,46.1,48.0,47.8
+23 Nov,,USD,  Revised UoM Inflation Expectations  ,4.9%,,5.1%
+23 Nov,10:30 am,GBP,  MPC Member Pill Speaks  ,,,
+23 Nov,,USD,  Crude Oil Inventories  ,-3.7M,-2.6M,-5.4M
+23 Nov,12:00 pm,USD,  Natural Gas Storage  ,-80B,-86B,64B
+23 Nov,2:00 pm,NZD,  RBNZ Gov Orr Speaks  ,,,
+23 Nov,,USD,  FOMC Meeting Minutes  ,,,
+23 Nov,4:30 pm,CAD,  BOC Gov Macklem Speaks  ,,,
+23 Nov,7:30 pm,JPY,  Flash Manufacturing PMI  ,49.4,50.9,50.7
+23 Nov,4:45 am,GBP,  MPC Member Ramsden Speaks  ,,,
+23 Nov,5:30 am,GBP,  MPC Member Pill Speaks  ,,,
+23 Nov,6:00 am,GBP,  CBI Industrial Order Expectations  ,-5,-9,-4
+23 Nov,7:30 am,EUR,  ECB Monetary Policy Meeting Accounts  ,,,
+23 Nov,8:45 am,GBP,  MPC Member Mann Speaks  ,,,
+23 Nov,8:57 am,EUR,  Belgian NBB Business Climate  ,-16.6,-14.2,-15.5
+23 Nov,,NZD,  Core Retail Sales q/q  ,0.4%,0.7%,-1.5%
+23 Nov,6:30 pm,JPY,  Tokyo Core CPI y/y  ,3.6%,3.5%,3.4%
+23 Nov,6:50 pm,JPY,  SPPI y/y  ,1.8%,2.1%,2.1%
+25 Nov,2:00 am,EUR,  German Final GDP q/q  ,0.4%,0.3%,0.3%
+25 Nov,,EUR,  German GfK Consumer Climate  ,-40.2,-39.5,-41.9
+27 Nov,6:00 pm,AUD,  RBA Gov Lowe Speaks  ,,,
+27 Nov,7:30 pm,AUD,  Retail Sales m/m  ,-0.2%,0.5%,0.6%
+28 Nov,4:00 am,EUR,  M3 Money Supply y/y  ,5.1%,6.1%,6.3%
+28 Nov,,EUR,  Private Loans y/y  ,4.2%,4.5%,4.4%
+28 Nov,6:00 am,GBP,  CBI Realized Sales  ,-19,2,18
+28 Nov,8:30 am,CAD,  Current Account  ,-11.1B,-4.0B,2.6B
+28 Nov,,USD,  FOMC Member Williams Speaks  ,,,
+28 Nov,12:10 pm,EUR,  German Buba President Nagel Speaks  ,,,
+28 Nov,6:30 pm,JPY,  Unemployment Rate  ,2.6%,2.5%,2.6%
+28 Nov,6:50 pm,JPY,  Retail Sales y/y  ,4.3%,5.0%,4.8%
+28 Nov,3:00 am,CHF,  GDP q/q  ,0.2%,0.3%,0.1%
+28 Nov,,EUR,  Spanish Flash CPI y/y  ,6.8%,7.4%,7.3%
+28 Nov,4:30 am,GBP,  M4 Money Supply m/m  ,0.0%,0.8%,2.1%
+28 Nov,,GBP,  Mortgage Approvals  ,59K,60K,66K
+28 Nov,4:32 am,GBP,  Net Lending to Individuals m/m  ,4.7B,6.7B,6.5B
+28 Nov,5:10 am,EUR,  Italian 10-y Bond Auction  ,3.96|1.5,,4.24|1.3
+28 Nov,7:35 am,GBP,  MPC Member Mann Speaks  ,,,
+28 Nov,8:30 am,CAD,  GDP m/m  ,0.1%,0.1%,0.3%
+28 Nov,9:00 am,CNY,  CB Leading Index m/m  ,-0.5%,,-0.4%
+28 Nov,,USD,  HPI m/m  ,0.1%,-1.2%,-0.7%
+28 Nov,,USD,  S&P/CS Composite-20 HPI y/y  ,10.4%,10.5%,13.1%
+28 Nov,10:00 am,CHF,  Gov Board Member Schlegel Speaks  ,,,
+28 Nov,,GBP,  BOE Gov Bailey Speaks  ,,,
+28 Nov,,USD,  CB Consumer Confidence  ,100.2,100.0,102.2
+28 Nov,4:45 pm,NZD,  Building Consents m/m  ,-10.7%,,3.6%
+28 Nov,6:50 pm,JPY,  Prelim Industrial Production m/m  ,-2.6%,-1.8%,-1.7%
+28 Nov,7:00 pm,NZD,  ANZ Business Confidence  ,-57.1,,-42.7
+28 Nov,7:01 pm,GBP,  BRC Shop Price Index y/y  ,7.4%,,6.6%
+28 Nov,7:30 pm,AUD,  CPI y/y  ,6.9%,7.6%,7.3%
+28 Nov,,AUD,  Building Approvals m/m  ,-6.0%,-2.0%,-8.1%
+28 Nov,,AUD,  Construction Work Done q/q  ,2.2%,1.4%,-2.0%
+28 Nov,,AUD,  Private Sector Credit m/m  ,0.6%,0.6%,0.7%
+28 Nov,8:30 pm,CNY,  Manufacturing PMI  ,48.0,49.0,49.2
+28 Nov,8:32 pm,CNY,  Non-Manufacturing PMI  ,46.7,48.0,48.7
+30 Nov,12:00 am,JPY,  Housing Starts y/y  ,-1.8%,-1.1%,1.0%
+30 Nov,2:45 am,EUR,  French Consumer Spending m/m  ,-2.8%,-0.9%,1.3%
+30 Nov,,EUR,  French Prelim CPI m/m  ,0.4%,0.3%,1.0%
+30 Nov,,EUR,  French Prelim GDP q/q  ,0.2%,0.2%,0.2%
+30 Nov,3:00 am,CHF,  KOF Economic Barometer  ,89.5,91.9,90.9
+30 Nov,3:30 am,GBP,  MPC Member Pill Speaks  ,,,
+30 Nov,3:55 am,EUR,  German Unemployment Change  ,17K,14K,9K
+30 Nov,4:00 am,CHF,  Credit Suisse Economic Expectations  ,-57.5,,-53.1
+30 Nov,,EUR,  Italian Prelim CPI m/m  ,0.5%,0.3%,3.4%
+30 Nov,5:35 am,EUR,  German 10-y Bond Auction  ,1.95|2.0,,2.25|1.7
+30 Nov,8:15 am,USD,  ADP Non-Farm Employment Change  ,127K,196K,239K
+30 Nov,8:30 am,USD,  Prelim GDP q/q  ,2.9%,2.8%,2.6%
+30 Nov,,USD,  Goods Trade Balance  ,-99.0B,-90.7B,-91.9B
+30 Nov,,USD,  Prelim GDP Price Index q/q  ,4.3%,4.1%,4.1%
+30 Nov,,USD,  Prelim Wholesale Inventories m/m  ,0.8%,0.5%,0.6%
+30 Nov,9:45 am,USD,  Chicago PMI  ,37.2,47.0,45.2
+30 Nov,10:00 am,USD,  JOLTS Job Openings  ,10.33M,10.24M,10.69M
+30 Nov,10:30 am,USD,  Crude Oil Inventories  ,-12.6M,-3.2M,-3.7M
+30 Nov,12:35 pm,USD,  FOMC Member Cook Speaks  ,,,
+30 Nov,1:30 pm,USD,  Fed Chair Powell Speaks  ,,,
+30 Nov,2:00 pm,USD,  Beige Book  ,,,
+30 Nov,4:30 pm,AUD,  AIG Manufacturing Index  ,44.7,,49.6
+30 Nov,6:50 pm,JPY,  Capital Spending q/y  ,9.8%,6.4%,4.6%
+30 Nov,7:30 pm,AUD,  Private Capital Expenditure q/q  ,-0.6%,1.6%,-0.3%
+30 Nov,,JPY,  Final Manufacturing PMI  ,49.0,49.4,49.4
+30 Nov,8:45 pm,CNY,  Caixin Manufacturing PMI  ,49.4,48.9,49.2
+30 Nov,10:35 pm,JPY,  10-y Bond Auction  ,0.25|6.0,,0.25|5.2
